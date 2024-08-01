@@ -2,7 +2,7 @@
 GUID dbe8ad0ce96a441787a070e9143fff11
 Type Vendor
 ID 35010
-Buying 24
+Buying 30
 Buying_0_ID 40030
 Buying_0_Cost 5
 Buying_1_ID 40031
@@ -51,6 +51,18 @@ Buying_22_ID 56302
 Buying_22_Cost 75000
 Buying_23_ID 56304
 Buying_23_Cost 75000
+Buying_24_ID 18292
+Buying_24_Cost 35000
+Buying_25_ID 17642
+Buying_25_Cost 40000
+Buying_26_ID 17646
+Buying_26_Cost 35000
+Buying_27_ID 17665
+Buying_27_Cost 30000
+Buying_28_ID 17667
+Buying_28_Cost 30000
+Buying_29_ID 18283
+Buying_29_Cost 45000
 Selling 11
 Selling_0_ID 40030
 Selling_0_Cost 5

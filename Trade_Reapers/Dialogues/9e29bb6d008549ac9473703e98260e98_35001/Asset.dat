@@ -3,6 +3,7 @@ GUID 9e29bb6d008549ac9473703e98260e98
 Type Dialogue
 ID 35001
 Messages 1
+Message_0_FaceOverride 11
 Message_0_Pages 1
 Responses 10
 Response_0_Dialogue 35002
@@ -80,7 +81,7 @@ Response_7_Rewards 1
 Response_7_Reward_0_Type Item_Random
 Response_7_Reward_0_ID 2001
 Response_7_Reward_0_Amount 20
-Response_7_Reward_0_Auto_Equip True
+Response_7_Reward_0_Auto_Equip False
 
 Response_8_Conditions 2
 Response_8_Condition_0_Type Item
@@ -98,7 +99,7 @@ Response_8_Rewards 1
 Response_8_Reward_0_Type Item_Random
 Response_8_Reward_0_ID 3302
 Response_8_Reward_0_Amount 3
-Response_8_Reward_0_Auto_Equip True
+Response_8_Reward_0_Auto_Equip False
 
 Response_9_Conditions 2
 Response_9_Condition_0_Type Item
@@ -116,5 +117,5 @@ Response_9_Rewards 1
 Response_9_Reward_0_Type Item_Random
 Response_9_Reward_0_ID 3303
 Response_9_Reward_0_Amount 5
-Response_9_Reward_0_Auto_Equip True
+Response_9_Reward_0_Auto_Equip False
 

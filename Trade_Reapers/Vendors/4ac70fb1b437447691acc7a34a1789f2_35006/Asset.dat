@@ -2,7 +2,7 @@
 GUID 4ac70fb1b437447691acc7a34a1789f2
 Type Vendor
 ID 35006
-Selling 38
+Selling 41
 Selling_0_ID 18278
 Selling_0_Cost 2000
 Selling_1_ID 44751
@@ -20,11 +20,11 @@ Selling_6_Cost 3800
 Selling_7_ID 58474
 Selling_7_Cost 1200
 Selling_8_ID 18000
-Selling_8_Cost 5000
+Selling_8_Cost 3000
 Selling_9_ID 19804
-Selling_9_Cost 2500
+Selling_9_Cost 1750
 Selling_10_ID 18006
-Selling_10_Cost 3000
+Selling_10_Cost 2000
 Selling_11_ID 19805
 Selling_11_Cost 15000
 Selling_12_ID 19803
@@ -79,4 +79,10 @@ Selling_36_ID 18321
 Selling_36_Cost 100000
 Selling_37_ID 18317
 Selling_37_Cost 10000
+Selling_38_ID 19887
+Selling_38_Cost 15000
+Selling_39_ID 19253
+Selling_39_Cost 25000
+Selling_40_ID 58477
+Selling_40_Cost 10000
 Disable_Sorting
