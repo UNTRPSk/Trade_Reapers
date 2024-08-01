@@ -1,0 +1,120 @@
+﻿// Made in NPC Maker by BowieD
+GUID 9e29bb6d008549ac9473703e98260e98
+Type Dialogue
+ID 35001
+Messages 1
+Message_0_Pages 1
+Responses 10
+Response_0_Dialogue 35002
+Response_0_Quest 35003
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 35003
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC True
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 35003
+
+Response_1_Dialogue 35004
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 35003
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC True
+Response_1_Condition_0_Reset 
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Reputation
+Response_1_Reward_0_Value 5
+
+Response_2_Vendor 35005
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 35003
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC True
+
+Response_3_Vendor 35006
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 35003
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC True
+
+Response_4_Vendor 35008
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 35003
+Response_4_Condition_0_Status Completed
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC True
+
+Response_5_Vendor 35009
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 35003
+Response_5_Condition_0_Status Completed
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC True
+
+Response_6_Vendor 35010
+Response_7_Conditions 2
+Response_7_Condition_0_Type Item
+Response_7_Condition_0_ID 23501
+Response_7_Condition_0_Amount 1
+Response_7_Condition_0_Reset 
+
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_ID 35003
+Response_7_Condition_1_Status Completed
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_Ignore_NPC True
+
+Response_7_Rewards 1
+Response_7_Reward_0_Type Item_Random
+Response_7_Reward_0_ID 2001
+Response_7_Reward_0_Amount 20
+Response_7_Reward_0_Auto_Equip True
+
+Response_8_Conditions 2
+Response_8_Condition_0_Type Item
+Response_8_Condition_0_ID 23502
+Response_8_Condition_0_Amount 1
+Response_8_Condition_0_Reset 
+
+Response_8_Condition_1_Type Quest
+Response_8_Condition_1_ID 35003
+Response_8_Condition_1_Status Completed
+Response_8_Condition_1_Logic Equal
+Response_8_Condition_1_Ignore_NPC True
+
+Response_8_Rewards 1
+Response_8_Reward_0_Type Item_Random
+Response_8_Reward_0_ID 3302
+Response_8_Reward_0_Amount 3
+Response_8_Reward_0_Auto_Equip True
+
+Response_9_Conditions 2
+Response_9_Condition_0_Type Item
+Response_9_Condition_0_ID 23503
+Response_9_Condition_0_Amount 1
+Response_9_Condition_0_Reset 
+
+Response_9_Condition_1_Type Quest
+Response_9_Condition_1_ID 35003
+Response_9_Condition_1_Status Completed
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_1_Ignore_NPC True
+
+Response_9_Rewards 1
+Response_9_Reward_0_Type Item_Random
+Response_9_Reward_0_ID 3303
+Response_9_Reward_0_Amount 5
+Response_9_Reward_0_Auto_Equip True
+

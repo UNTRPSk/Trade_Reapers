@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 What you want?
+Response_0 I want to sign a contract
+Response_1 I signed it
+Response_2 [Uniform]
+Response_3 [Equipment]
+Response_4 [Weapons]
+Response_5 [Ammunation]
+Response_6 [Exchange]
+Response_7 I have a <color=#00FFFF>small crate</color>, can you open it?
+Response_8  I have a <color=#00FFFF>medium crate</color>, can you open it?
+Response_9 I have a <color=#00FFFF>large crate</color>, can you open it?
