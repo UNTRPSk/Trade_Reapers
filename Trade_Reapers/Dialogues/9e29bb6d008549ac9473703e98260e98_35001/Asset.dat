@@ -5,7 +5,7 @@ ID 35001
 Messages 1
 Message_0_FaceOverride 11
 Message_0_Pages 1
-Responses 10
+Responses 11
 Response_0_Dialogue 35002
 Response_0_Quest 35003
 Response_0_Conditions 1
@@ -65,27 +65,10 @@ Response_5_Condition_0_Logic Equal
 Response_5_Condition_0_Ignore_NPC True
 
 Response_6_Vendor 35010
-Response_7_Conditions 2
-Response_7_Condition_0_Type Item
-Response_7_Condition_0_ID 23501
-Response_7_Condition_0_Amount 1
-Response_7_Condition_0_Reset 
-
-Response_7_Condition_1_Type Quest
-Response_7_Condition_1_ID 35003
-Response_7_Condition_1_Status Completed
-Response_7_Condition_1_Logic Equal
-Response_7_Condition_1_Ignore_NPC True
-
-Response_7_Rewards 1
-Response_7_Reward_0_Type Item_Random
-Response_7_Reward_0_ID 2001
-Response_7_Reward_0_Amount 20
-Response_7_Reward_0_Auto_Equip False
-
+Response_7_Vendor 35011
 Response_8_Conditions 2
 Response_8_Condition_0_Type Item
-Response_8_Condition_0_ID 23502
+Response_8_Condition_0_ID 23501
 Response_8_Condition_0_Amount 1
 Response_8_Condition_0_Reset 
 
@@ -97,13 +80,13 @@ Response_8_Condition_1_Ignore_NPC True
 
 Response_8_Rewards 1
 Response_8_Reward_0_Type Item_Random
-Response_8_Reward_0_ID 3302
-Response_8_Reward_0_Amount 3
+Response_8_Reward_0_ID 2001
+Response_8_Reward_0_Amount 20
 Response_8_Reward_0_Auto_Equip False
 
 Response_9_Conditions 2
 Response_9_Condition_0_Type Item
-Response_9_Condition_0_ID 23503
+Response_9_Condition_0_ID 23502
 Response_9_Condition_0_Amount 1
 Response_9_Condition_0_Reset 
 
@@ -115,7 +98,25 @@ Response_9_Condition_1_Ignore_NPC True
 
 Response_9_Rewards 1
 Response_9_Reward_0_Type Item_Random
-Response_9_Reward_0_ID 3303
-Response_9_Reward_0_Amount 5
+Response_9_Reward_0_ID 3302
+Response_9_Reward_0_Amount 3
 Response_9_Reward_0_Auto_Equip False
+
+Response_10_Conditions 2
+Response_10_Condition_0_Type Item
+Response_10_Condition_0_ID 23503
+Response_10_Condition_0_Amount 1
+Response_10_Condition_0_Reset 
+
+Response_10_Condition_1_Type Quest
+Response_10_Condition_1_ID 35003
+Response_10_Condition_1_Status Completed
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_1_Ignore_NPC True
+
+Response_10_Rewards 1
+Response_10_Reward_0_Type Item_Random
+Response_10_Reward_0_ID 3303
+Response_10_Reward_0_Amount 5
+Response_10_Reward_0_Auto_Equip False
 

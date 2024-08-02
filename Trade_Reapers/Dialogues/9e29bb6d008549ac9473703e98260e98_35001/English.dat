@@ -7,6 +7,7 @@ Response_3 [Equipment]
 Response_4 [Weapons]
 Response_5 [Ammunation]
 Response_6 [Exchange]
-Response_7 I have a <color=#00FFFF>small crate</color>, can you open it?
-Response_8  I have a <color=#00FFFF>medium crate</color>, can you open it?
-Response_9 I have a <color=#00FFFF>large crate</color>, can you open it?
+Response_7 [Attachments]
+Response_8 I have a <color=#00FFFF>small crate</color>, can you open it?
+Response_9  I have a <color=#00FFFF>medium crate</color>, can you open it?
+Response_10 I have a <color=#00FFFF>large crate</color>, can you open it?
